@@ -4,5 +4,5 @@ pdfplumber
 langchain-openai
 langchain-community
 sentence-transformer
-
+flask
 
